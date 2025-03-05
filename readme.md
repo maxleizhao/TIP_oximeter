@@ -48,7 +48,7 @@ TIP_Oximeter/ \
 
 ### Training a New Model
 
-1. Prepare your dataset following the structure in `data/README.md`
+1. Prepare your dataset following the structure in our paper
 2. Open `src/main.m` and set the following parameters:
    ```matlab
    trainNetworkFlag = 1;        % Enable training mode
